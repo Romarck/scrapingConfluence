@@ -10,3 +10,4 @@ openpyxl
 python-pptx
 Pillow
 pytesseract
+FPDF
