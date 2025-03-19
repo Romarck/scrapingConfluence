@@ -1,0 +1,12 @@
+streamlit
+requests
+python-slugify
+beautifulsoup4
+html2text
+slugify
+PyPDF2
+python-docx
+openpyxl
+python-pptx
+Pillow
+pytesseract
