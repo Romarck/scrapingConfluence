@@ -11,3 +11,4 @@ python-pptx
 Pillow
 pytesseract
 FPDF
+Markdown
